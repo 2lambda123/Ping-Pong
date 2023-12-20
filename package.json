@@ -34,7 +34,7 @@
     "normalise": "^2.1.0",
     "react": "^0.11.1",
     "serve-static": "^1.5.0",
-    "socket.io": "0.9.16",
+    "socket.io": "2.4.0",
     "sparknode": "^0.4.9",
     "through2": "^0.6.1",
     "uglifyify": "^2.5.0",
